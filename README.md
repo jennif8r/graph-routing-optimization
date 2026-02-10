@@ -150,9 +150,7 @@ Cada experimento é uma **pergunta diferente feita ao mesmo grafo**.
 
 ---
 
-## 🚀 Próximo passo: OR-Tools
-
-Como evolução natural do laboratório, este repositório também será usado para testar:
+## Evoluindo para ultilizar a biblioteca OR-tools
 
 - **OR-Tools**
 - problemas de roteamento mais complexos
