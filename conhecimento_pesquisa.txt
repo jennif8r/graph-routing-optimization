@@ -1,0 +1,13 @@
+Domínio em monitoramento de modelos (data drift, concept drit, PSI, entre outros);
+
+Domínio em modelos preditivos baseados em árvores de decisão (XGBoost, LightGBM, Random Forest, entre outros);
+
+Pandas, Scikit-learn, NumPy, TensorFlow/PyTorch, OR-Tools);
+
+Experiência prática em análise de dados geoespaciais (ex: bibliotecas como GeoPandas, funções geográficas no BigQuery);
+
+Conhecimento em Visão Computacional para aplicações como análise de fluxo de pessoas ou comportamento em loja;
+
+Experiência com deploy de modelos de Machine Learning em ambiente de produção (práticas de MLOps);
+
+Proficiência em técnicas de otimização e pesquisa operacional aplicadas a problemas de negócio;
