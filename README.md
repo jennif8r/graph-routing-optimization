@@ -4,7 +4,7 @@ Este repositório é meu **laboratório pessoal de grafos, rotas e caminhos mais
 
 Aqui eu brinco, experimento, testo ideias e tento responder perguntas simples que todo mundo já se fez alguma vez:
 
-> “Qual é o caminho mais curto da minha casa até o hospital?”  
+> “Qual é o caminho mais curto da casa x até o hospital?”  
 > “E até a padaria?”  
 > “E se eu mudar o critério?”  
 
@@ -72,7 +72,7 @@ Nesse arquivo:
 - `0` significa que não existe ligação direta  
 
 O mapa inclui:
-- minha casa
+- casa x
 - esquinas
 - ruas
 - conexões reais entre pontos
